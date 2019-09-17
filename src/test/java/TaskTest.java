@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 import pages.MainPage;
 import pages.SearchPage;
 
-public class TaskTest {
+public class Test1 {
 	WebDriver driver;
 
 	@Test
